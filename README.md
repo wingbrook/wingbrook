@@ -20,7 +20,7 @@ This GitHub is where I'll be posting my work, the mistakes  I’ve made and the 
 
 -🥦👨‍💻 Fun fact: I’m still perfecting my x _ x _ x _ x _ x _ x _ x _ recipes!
 
-I own a website with that worships broccoli. All kinds of broccoli and anything broccoli. If you want to learn more about me or check out my projects, feel free to visit [https://spectacular-cactus-9161e3.netlify.app/]
+I own a website with that worships broccoli. All kinds of broccoli and anything broccoli. If you want to learn more about me or check out my projects, feel free to visit [https://simplybrook.netlify.app]
 <!---
 wingbrook/wingbrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
